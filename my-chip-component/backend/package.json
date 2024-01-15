@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend of chip component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepti-chauhan/Zepto-Chip-Component.git"
+  },
+  "author": "Deepti Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepti-chauhan/Zepto-Chip-Component/issues"
+  },
+  "homepage": "https://github.com/deepti-chauhan/Zepto-Chip-Component#readme"
+}
